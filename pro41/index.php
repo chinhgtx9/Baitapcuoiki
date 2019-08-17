@@ -24,15 +24,15 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="thi.html">Trang Chủ <span class="sr-only">(current)</span></a>
+      <a class="nav-link" href="index.php">Trang Chủ<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="gioithieu.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Giới Thiệu
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Lời Chào Mừng</a>
-          <a class="dropdown-item" href="#">Giới Thiệu</a>
+          <a class="dropdown-item" href="loichaomung.php">Lời Chào Mừng</a>
+          <a class="dropdown-item" href="gioithieu.php">Giới Thiệu</a>
           <a class="dropdown-item" href="#">Hợp Tác Và liên kết</a>
         </div>
       </li><li class="nav-item dropdown">
@@ -225,13 +225,13 @@
       <!-- Links -->
       <ul class="list-unstyled">
         <li>
-          <a href="#!">Giới Thiệu</a>
+          <a href="gioithieu.php">Giới Thiệu</a>
         </li>
         <li>
-          <a href="#!">Logo của khoa CNTT</a>
+          <a href="logokhoacntt.php">Logo của khoa CNTT</a>
         </li>
         <li>
-          <a href="#!">Lời Chào Mừng</a>
+          <a href="loichaomung.php">Lời Chào Mừng</a>
         </li>
         <li>
           <a href="#!">Tổ Chức</a>

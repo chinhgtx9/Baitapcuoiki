@@ -54,7 +54,6 @@ h4{
     border-style: ridge;
 }
 #coppy{
-    background: blue;
+    background-color: blue;
     background-color: white;
-    text-align: right;
 }
